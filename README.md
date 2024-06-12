@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @madient
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning java in processing 
